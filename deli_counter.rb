@@ -10,6 +10,6 @@ def line(katz_deli)
   end
 end
 def take_a_number(katz_deli,name)
-  take_a_number = katz_deli.to_a
+  
   puts "Welcome, #{name}. You are number #{katz_deli+1} in line."
 end
